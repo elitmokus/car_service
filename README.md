@@ -8,9 +8,7 @@ Laravel 11 keretrendszert használok (Inertia.js és Vue.js).
 - [Laravelt futtató környezet](https://laravel.com/docs/11.x/deployment) (pl.: XAMPP, [Herd](https://herd.laravel.com/windows), Laragon)
 - NodeJs NPM
 - Composer
-- MySQL kapcsolat
-    - adatbázis név: car_service
-    - adatbázis hozzáférés: dbadmini / secret_password
+- SQLite adatbázis
 
 #### Telepítés
 
