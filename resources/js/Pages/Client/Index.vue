@@ -73,9 +73,6 @@
 <template>
 	<h1 class="text-2xl">Ügyfelek</h1>
 	
-	<p>activeClientRowDataKey: {{ activeClientRowDataKey }}</p>
-	<p>activeCarRowDataKey: {{ activeCarRowDataKey }}</p>
-	
 	<div class="my-3 p-4 bg-white rounded border border-[#c7c7c7] shadow">
 		<div class="flex ">
 			
